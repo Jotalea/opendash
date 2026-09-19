@@ -7,3 +7,4 @@ sdl_fs/
 src/
 pkg/
 *.pkg.tar.*
+opendash/
