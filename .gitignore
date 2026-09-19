@@ -1,0 +1,9 @@
+build/
+output/
+platform/sdl/assets_build/
+sdl_fs/
+
+# makepkg
+src/
+pkg/
+*.pkg.tar.*
